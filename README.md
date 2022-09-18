@@ -4,7 +4,7 @@ Java developer intern. I'm currently practicing fullstack development with Sprin
 ### 🛠 Tech stack
 * Java/JavaScript languages
 * PostgreSQL
-* Spring Boot, Spring Data Jpa, Spring Security
+* Spring Boot, Spring Data JPA, Spring Security
 * ReactJS
 
 <h2><a href="https://drive.google.com/file/d/1zXrwGD7KZAnbYQd0Y65lXS1tR33bkABO/view?usp=sharing">My resume in PDF (ru)</a></h2>
