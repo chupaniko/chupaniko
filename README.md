@@ -9,17 +9,19 @@ Master student of "Software engineering" specialty at <a href="https://ssau.ru/"
 
 <h3><a href="https://drive.google.com/file/d/1YIUcKIC2v-icLHeYbSTpTRRxKqngg3Y-/view?usp=sharing">My resume in PDF (RU)</a></h3>
 
-<p align='center'>
+<!--<p align='center'>
    <!--<a href="https://www.linkedin.com/in/romankh3/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>-->
-   <a href="https://t.me/chupaniko">
+   
+   <!--<a href="https://t.me/chupaniko">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
 <p align='center'>
    📫 How to reach me: <a href='mailto:nikolaicxxi@gmail.com'>nikolaicxxi@gmail.com</a>
 </p>
+-->
 
 <!--
 **chupaniko/chupaniko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
