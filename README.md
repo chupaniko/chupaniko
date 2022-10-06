@@ -1,5 +1,5 @@
 # Hi, I'm Nikolai Chupakhin 👋
-Java developer intern. Master student of "Software engineering" specialty at <a href="https://ssau.ru/">Samara University</a>. I practice in fullstack development with Spring Boot (Java) + ReactJS. 
+Master student of "Software engineering" specialty at <a href="https://ssau.ru/">Samara University</a>. I practice in fullstack development with Spring Boot (Java) + ReactJS. 
 
 ### 🛠 Tech stack
 * Java/JavaScript languages
@@ -7,7 +7,7 @@ Java developer intern. Master student of "Software engineering" specialty at <a 
 * Spring Boot, Spring Data JPA, Spring Security
 * ReactJS
 
-<h2><a href="https://drive.google.com/file/d/1zXrwGD7KZAnbYQd0Y65lXS1tR33bkABO/view?usp=sharing">My resume in PDF (RU)</a></h2>
+<h2><a href="https://drive.google.com/file/d/1YIUcKIC2v-icLHeYbSTpTRRxKqngg3Y-/view?usp=sharing">My resume in PDF (RU)</a></h2>
 
 <p align='center'>
    <!--<a href="https://www.linkedin.com/in/romankh3/">
